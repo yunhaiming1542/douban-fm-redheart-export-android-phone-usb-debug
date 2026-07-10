@@ -1,4 +1,4 @@
-# 豆瓣FM 红心歌单导出 (ADB · Android · USB 调试)
+# 豆瓣FM 红心歌单导出SKILL (ADB · Android · USB 调试)
 
 > Export your Douban FM "红心 / 我喜欢" (red-heart) playlist to a local CSV — via ADB UI scraping on an Android phone with **开发者选项 + USB 调试** enabled.
 
